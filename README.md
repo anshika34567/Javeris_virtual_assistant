@@ -44,7 +44,7 @@ Webbrowser & Datetime – For browsing and time functions.
 
 Clone the repository:
 
-git clone https://github.com/anshika34567/javeris-virtual-assistant.git
+git clone https://github.com/anshika34567/Javeris_virtual_assistant
 cd javeris-virtual-assistant
 
 
